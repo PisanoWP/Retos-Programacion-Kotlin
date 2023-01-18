@@ -1,3 +1,5 @@
+package Retos2022
+
 import java.text.DecimalFormat
 
 fun main(){

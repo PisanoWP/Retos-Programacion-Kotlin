@@ -1,3 +1,5 @@
+package Retos2022
+
 /*
  * Reto #7
  * CONTANDO PALABRAS
