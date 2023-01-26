@@ -5,3 +5,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#1** - 02/01/23 | Fácil | EL "LENGUAJE HACKER"
 * **#2** - 09/01/23 | Media | EL PARTIDO DE TENIS
 * **#3** - 16/01/23 | Media | EL GENERADOR DE CONTRASEÑAS
+* **#4** - 23/01/23 | Media | PRIMO, FIBONACCI Y PAR
