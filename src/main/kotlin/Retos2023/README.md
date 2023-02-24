@@ -8,3 +8,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#4** - 23/01/23 | Media | PRIMO, FIBONACCI Y PAR
 * **#5** - 30/01/23 | Fácil | ¡Hola Mundo! 
 * **#6** - 06/02/23 | Media | Piedra, Papel, Tijera, Lagarto, Spock
+* **#7** - 13/02/23 | Media | EL SOMBRERO SELECCIONADOR
+* **#8** - 20/02/23 | Media | EL GENERADOR PSEUDOALEATORIO
