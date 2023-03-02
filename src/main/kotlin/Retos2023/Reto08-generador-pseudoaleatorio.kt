@@ -25,6 +25,9 @@ fun main() {
     println("Usando LCG => ${GeneradorPseudoaleatorio("LCG").generate()}")
     println("Usando XOR => ${GeneradorPseudoaleatorio("XOR").generate()}")
 
+    // Esta solucion esta sacada de la resolución del ejercicio
+    println("Usando LocalTime => ${GeneradorPseudoaleatorio("TIME").generate()}")
+
 
 }
 
@@ -46,6 +49,10 @@ class GeneradorPseudoaleatorio(var method: String = "MSM", var seed: Int = 0) {
 
             "XOR" -> {
                 xorShift()
+            }
+
+            "TIME" -> {
+                localTime()
             }
 
             else -> {
@@ -133,4 +140,10 @@ class GeneradorPseudoaleatorio(var method: String = "MSM", var seed: Int = 0) {
 
 
     }
+
+
+    private fun localTime(): Int {
+        return (System.nanoTime() % 101).toInt()
+    }
+
 }

@@ -10,3 +10,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#6** - 06/02/23 | Media | Piedra, Papel, Tijera, Lagarto, Spock
 * **#7** - 13/02/23 | Media | EL SOMBRERO SELECCIONADOR
 * **#8** - 20/02/23 | Media | EL GENERADOR PSEUDOALEATORIO
+* **#9** - 27/02/23 | Fácil | HETEROGRAMA, ISOGRAMA Y PANGRAMA
