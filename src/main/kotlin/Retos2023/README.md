@@ -11,3 +11,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#7** - 13/02/23 | Media | EL SOMBRERO SELECCIONADOR
 * **#8** - 20/02/23 | Media | EL GENERADOR PSEUDOALEATORIO
 * **#9** - 27/02/23 | Fácil | HETEROGRAMA, ISOGRAMA Y PANGRAMA
+* **#10** - 06/03/23 | Media | LA API
+* **#11** - 13/03/23 | Fácil | URL PARAMS
