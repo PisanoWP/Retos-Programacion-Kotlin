@@ -13,3 +13,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#9** - 27/02/23 | Fácil | HETEROGRAMA, ISOGRAMA Y PANGRAMA
 * **#10** - 06/03/23 | Media | LA API
 * **#11** - 13/03/23 | Fácil | URL PARAMS
+* **#12** - 20/03/23 | Fácil | VIERNES 13
