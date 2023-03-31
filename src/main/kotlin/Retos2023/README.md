@@ -14,3 +14,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#10** - 06/03/23 | Media | LA API
 * **#11** - 13/03/23 | Fácil | URL PARAMS
 * **#12** - 20/03/23 | Fácil | VIERNES 13
+* **#13** - 27/03/23 | Media | ADIVINA LA PALABRA
