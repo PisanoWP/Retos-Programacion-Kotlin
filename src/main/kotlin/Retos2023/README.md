@@ -16,3 +16,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#12** - 20/03/23 | Fácil | VIERNES 13
 * **#13** - 27/03/23 | Media | ADIVINA LA PALABRA
 * **#14** - 03/04/23 | Fácil | OCTAL Y HEXADECIMAL
+* **#15** - 10/04/23 | Fácil | AUREBESH
+* **#16** - 17/04/23 | Media | LA ESCALERA
