@@ -18,3 +18,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#14** - 03/04/23 | Fácil | OCTAL Y HEXADECIMAL
 * **#15** - 10/04/23 | Fácil | AUREBESH
 * **#16** - 17/04/23 | Media | LA ESCALERA
+* **#17** - 24/04/23 | Difícil | GIT Y GITHUB
