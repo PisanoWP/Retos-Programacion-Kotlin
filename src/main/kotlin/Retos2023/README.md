@@ -20,3 +20,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#16** - 17/04/23 | Media | LA ESCALERA
 * **#17** - 24/04/23 | Difícil | GIT Y GITHUB
 * **#18** - 01/05/23 | Difícil | WEB SCRAPING
+* **#19** - 11/05/23 | Media | ANÁLISIS DE TEXTO
+* **#20** - 15/05/23 | Media | LA TRIFUERZA
