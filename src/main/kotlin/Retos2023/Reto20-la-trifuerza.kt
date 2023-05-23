@@ -39,7 +39,9 @@ fun main() {
 
     TriFuerza(filas!!).pintar()
 
-
+    // No entendí el enunciado, la siguiente función, del usuario @marchdz
+    // es como se tiene que hacer
+    triforce(4)
 
 }
 
@@ -76,6 +78,18 @@ class TriFuerza(var filas:Int = 1){
     }
 
 }
+
+fun triforce(rows: Int) {
+    val triangle = mutableListOf<String>()
+    for (row in 1..rows) {
+        val asterisks = "*".repeat(2 * row - 1)
+        val spaces = " ".repeat((2 * rows - asterisks.length) / 2)
+        triangle.add("$spaces$asterisks$spaces")
+    }
+    triangle.forEach { row -> println(row.padStart((1.5 * row.length + 1).toInt())) }
+    triangle.forEach { row -> println("$row $row") }
+}
+
 
 
 
