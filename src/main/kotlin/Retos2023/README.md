@@ -23,4 +23,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#19** - 11/05/23 | Media | ANÁLISIS DE TEXTO
 * **#20** - 15/05/23 | Media | LA TRIFUERZA
 * **#21** - 22/05/23 | Media | NÚMEROS PRIMOS GEMELOS
+* **#22** - 29/05/23 | Media | LA ESPIRAL
 
