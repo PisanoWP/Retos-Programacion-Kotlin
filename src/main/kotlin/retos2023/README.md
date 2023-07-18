@@ -30,3 +30,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#26** - 26/06/23 | Media | TESTING
 * **#27** - 03/07/23 | Media | CUENTA ATRÁS
 * **#28** - 10/07/23 | Media | EXPRESIÓN MATEMÁTICA
+* **#29** - 17/07/23 | Media | EL CARÁCTER INFILTRADO
