@@ -29,4 +29,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#25** - 19/06/23 | Media | EL CÓDIGO KONAMI
 * **#26** - 26/06/23 | Media | TESTING
 * **#27** - 03/07/23 | Media | CUENTA ATRÁS
-
+* **#28** - 10/07/23 | Media | EXPRESIÓN MATEMÁTICA
