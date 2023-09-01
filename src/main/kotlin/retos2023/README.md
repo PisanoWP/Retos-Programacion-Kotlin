@@ -34,3 +34,6 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#30** - 24/07/23 | Media | EL TECLADO T9
 * **#31** - 31/07/23 | Fácil | EL ÁBACO
 * **#32** - 07/08/23 | Media | LA COLUMNA DE EXCEL
+* **#33** - 14/08/23 | Difícil | TETRIS
+* **#34** - 21/08/23 | Media | El TXT
+* **#35** - 28/08/23 | Fácil | PRIMEROS PASOS
