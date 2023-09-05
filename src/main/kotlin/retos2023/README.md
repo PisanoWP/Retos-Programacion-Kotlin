@@ -37,3 +37,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#33** - 14/08/23 | Difícil | TETRIS
 * **#34** - 21/08/23 | Media | El TXT
 * **#35** - 28/08/23 | Fácil | PRIMEROS PASOS
+* **#36** - 04/09/23 | Media | PERMUTACIONES
