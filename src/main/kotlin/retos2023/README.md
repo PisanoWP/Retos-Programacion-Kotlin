@@ -39,3 +39,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#35** - 28/08/23 | Fácil | PRIMEROS PASOS
 * **#36** - 04/09/23 | Media | PERMUTACIONES
 * **#37** - 18/09/23 | Media | COLORES HEX y RGB
+* **#38** - 25/09/23 | Media | LAS SUMAS
