@@ -41,3 +41,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#37** - 18/09/23 | Media | COLORES HEX y RGB
 * **#38** - 25/09/23 | Media | LAS SUMAS
 * **#39** - 02/10/23 | Media | TRIPLES PITAGORICOS
+* **#40** - 09/10/23 | Fácil | TABLA DE MULTIPLICAR
