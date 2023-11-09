@@ -43,3 +43,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#39** - 02/10/23 | Media | TRIPLES PITAGORICOS
 * **#40** - 09/10/23 | Fácil | TABLA DE MULTIPLICAR
 * **#41** - 16/10/23 | Difícil | LA CASA ENCANTADA
+* **#42** - 23/10/23 | Difícil | PUNTO DE ENCUENTRO
