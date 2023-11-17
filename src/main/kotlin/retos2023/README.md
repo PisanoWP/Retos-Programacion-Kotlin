@@ -45,3 +45,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#41** - 16/10/23 | Difícil | LA CASA ENCANTADA
 * **#42** - 23/10/23 | Difícil | PUNTO DE ENCUENTRO
 * **#43** - 30/10/23 | Fácil | SIMLULADOR DE CLIMA
+* **#44** - 13/11/23 | Media | ADIVINANZAS MATEMÁTICAS
