@@ -46,3 +46,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#42** - 23/10/23 | Difícil | PUNTO DE ENCUENTRO
 * **#43** - 30/10/23 | Fácil | SIMLULADOR DE CLIMA
 * **#44** - 13/11/23 | Media | ADIVINANZAS MATEMÁTICAS
+* **#45** - 20/11/23 | Fácil | EL CALENDARIO DE ADEVIENTO 2023
